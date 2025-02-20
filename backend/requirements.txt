@@ -1,0 +1,4 @@
+qrcode
+redis
+flask
+flask-cors
